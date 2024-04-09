@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+Small card memory game i made with Javascript since I was in the University
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
